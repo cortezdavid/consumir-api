@@ -1,0 +1,14 @@
+.characterContainer,
+.methodContainer {
+    margin: 0 auto;
+    max-width: 1300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.methodContainer {
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+}
